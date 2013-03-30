@@ -4,7 +4,7 @@
   <title><![CDATA[Category: MVC | Log [info] Harshit]]></title>
   <link href="http://harshitagg.github.com/blog/categories/mvc/atom.xml" rel="self"/>
   <link href="http://harshitagg.github.com/"/>
-  <updated>2013-03-30T23:56:25+05:30</updated>
+  <updated>2013-03-31T00:12:55+05:30</updated>
   <id>http://harshitagg.github.com/</id>
   <author>
     <name><![CDATA[Harshit Agarwal]]></name>
@@ -18,9 +18,7 @@
     <link href="http://harshitagg.github.com/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs/"/>
     <updated>2013-03-30T23:24:00+05:30</updated>
     <id>http://harshitagg.github.com/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs</id>
-    <content type="html"><![CDATA[<hr />
-
-<p><strong><a href="http://http://knockoutjs.com/">Knockout JS</a></strong></p>
+    <content type="html"><![CDATA[<h2><strong><a href="http://http://knockoutjs.com/">Knockout JS</a></strong></h2>
 
 <ul>
 <li>Nice tutorials and documentation.</li>
@@ -31,7 +29,7 @@
 </ul>
 
 
-<p><strong><a href="http://angularjs.org/">Angular JS</a></strong></p>
+<h2><strong><a href="http://angularjs.org/">Angular JS</a></strong></h2>
 
 <ul>
 <li>All-in-one package. Provides everything you expect from a MVC framework.</li>
@@ -46,7 +44,7 @@
 </ul>
 
 
-<p><strong><a href="http://backbonejs.org/">Backbone JS</a></strong></p>
+<h2><strong><a href="http://backbonejs.org/">Backbone JS</a></strong></h2>
 
 <ul>
 <li>Nicely documented and very stable.</li>
@@ -60,7 +58,7 @@
 </ul>
 
 
-<p><strong><a href="http://emberjs.com/">Ember JS</a></strong></p>
+<h2><strong><a href="http://emberjs.com/">Ember JS</a></strong></h2>
 
 <ul>
 <li>Relatively new.</li>
@@ -71,7 +69,8 @@
 </ul>
 
 
-<p>Things not covered and assumptions made in the assessment:</p>
+<p><strong>Things not covered and assumptions made in the assessment:
+</strong></p>
 
 <ul>
 <li><strong>Performance</strong>: It is a very subjective matter and depend a lots on the bottlenecks of your application and on the criteria you use to judge it. Backbone is quite extensively used in mobiles and tablets so shouldn't be a problem at all. Both Ember and Angular claim that they give snappy performance on phone though there is no use case to support this, at least I didn't find any.</li>
