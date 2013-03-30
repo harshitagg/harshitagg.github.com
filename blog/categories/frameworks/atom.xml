@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Log [info] Harshit]]></title>
-  <link href="http://harshitagg.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Frameworks | Log [info] Harshit]]></title>
+  <link href="http://harshitagg.github.com/blog/categories/frameworks/atom.xml" rel="self"/>
   <link href="http://harshitagg.github.com/"/>
   <updated>2013-03-30T23:27:59+05:30</updated>
   <id>http://harshitagg.github.com/</id>
