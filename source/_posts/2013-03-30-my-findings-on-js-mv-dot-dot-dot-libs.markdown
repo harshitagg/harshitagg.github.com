@@ -17,7 +17,7 @@ categories: [Javascript, MVC, Frameworks]
 **[Angular JS](http://angularjs.org/)**
 ---
 * All-in-one package. Provides everything you expect from a MVC framework.
-* Built and maintained by Google. ;-)
+* Built and maintained by Google.
 * Extends HTML and at the same time pollutes DOM!!!
 * Quick development.
 * Easier to unit test. It provides a unit testing API.
