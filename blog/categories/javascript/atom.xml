@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Javascript | Log [info] Harshit]]></title>
   <link href="http://harshitagg.github.com/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://harshitagg.github.com/"/>
-  <updated>2013-03-31T00:12:55+05:30</updated>
+  <updated>2013-03-31T00:19:06+05:30</updated>
   <id>http://harshitagg.github.com/</id>
   <author>
     <name><![CDATA[Harshit Agarwal]]></name>
@@ -33,7 +33,7 @@
 
 <ul>
 <li>All-in-one package. Provides everything you expect from a MVC framework.</li>
-<li>Built and maintained by Google. ;-)</li>
+<li>Built and maintained by Google.</li>
 <li>Extends HTML and at the same time pollutes DOM!!!</li>
 <li>Quick development.</li>
 <li>Easier to unit test. It provides a unit testing API.</li>
