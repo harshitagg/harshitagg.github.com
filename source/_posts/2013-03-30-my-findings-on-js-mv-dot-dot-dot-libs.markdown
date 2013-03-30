@@ -6,7 +6,7 @@ comments: true
 categories: [Javascript, MVC, Frameworks]
 ---
 
-**[Knockout JS](http://http://knockoutjs.com/)**
+**[Knockout JS](http://knockoutjs.com/)**
 ---
 * Nice tutorials and documentation.
 * Nice to have in the smaller project, especially when you are satisfied with something which just provides UI data bindings.
