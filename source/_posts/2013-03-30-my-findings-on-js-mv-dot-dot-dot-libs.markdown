@@ -50,4 +50,4 @@ categories: [Javascript, MVC, Frameworks]
 **
 
 * **Performance**: It is a very subjective matter and depend a lots on the bottlenecks of your application and on the criteria you use to judge it. Backbone is quite extensively used in mobiles and tablets so shouldn't be a problem at all. Both Ember and Angular claim that they give snappy performance on phone though there is no use case to support this, at least I didn't find any.
-* **Sources**: I am not at all sharing my experience here as I haven't used them myself. I just gathered all this information from various resources which I consider reliable.
+* **Sources**: Its a mix of my experiences with these frameworks and information gathered from various resources which I consider reliable.
