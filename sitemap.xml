@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://harshitagg.github.com/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs/
+        </loc>
+        <lastmod>2013-03-31T12:06:49+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://harshitagg.github.com/blog/archives/</loc>
+        <lastmod>2013-03-31T12:06:49+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://harshitagg.github.com/</loc>
+        <lastmod>2013-03-31T12:06:49+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://harshitagg.github.com/robots.txt</loc>
+        <lastmod>2013-03-31T00:17:54+05:30</lastmod>
+    </url>
+</urlset>
