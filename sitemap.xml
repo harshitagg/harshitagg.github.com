@@ -2,20 +2,20 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://harshitagg.github.com/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs/
+            http://harshitagg.github.io/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs/
         </loc>
-        <lastmod>2013-03-31T12:06:49+05:30</lastmod>
+        <lastmod>2013-07-20T20:42:28+05:30</lastmod>
     </url>
     <url>
-        <loc>http://harshitagg.github.com/blog/archives/</loc>
-        <lastmod>2013-03-31T12:06:49+05:30</lastmod>
+        <loc>http://harshitagg.github.io/blog/archives/</loc>
+        <lastmod>2013-07-20T20:42:28+05:30</lastmod>
     </url>
     <url>
-        <loc>http://harshitagg.github.com/</loc>
-        <lastmod>2013-03-31T12:06:49+05:30</lastmod>
+        <loc>http://harshitagg.github.io/</loc>
+        <lastmod>2013-07-20T20:42:28+05:30</lastmod>
     </url>
     <url>
-        <loc>http://harshitagg.github.com/robots.txt</loc>
-        <lastmod>2013-03-31T00:17:54+05:30</lastmod>
+        <loc>http://harshitagg.github.io/robots.txt</loc>
+        <lastmod>2013-07-20T20:42:28+05:30</lastmod>
     </url>
 </urlset>

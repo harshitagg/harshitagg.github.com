@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Frameworks | Log [info] Harshit]]></title>
-  <link href="http://harshitagg.github.com/blog/categories/frameworks/atom.xml" rel="self"/>
-  <link href="http://harshitagg.github.com/"/>
-  <updated>2013-03-31T12:06:55+05:30</updated>
-  <id>http://harshitagg.github.com/</id>
+  <link href="http://harshitagg.github.io/blog/categories/frameworks/atom.xml" rel="self"/>
+  <link href="http://harshitagg.github.io/"/>
+  <updated>2013-07-20T20:46:57+05:30</updated>
+  <id>http://harshitagg.github.io/</id>
   <author>
     <name><![CDATA[Harshit Agarwal]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My findings on JS MV... libs]]></title>
-    <link href="http://harshitagg.github.com/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs/"/>
+    <link href="http://harshitagg.github.io/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs/"/>
     <updated>2013-03-30T23:24:00+05:30</updated>
-    <id>http://harshitagg.github.com/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs</id>
+    <id>http://harshitagg.github.io/blog/2013/03/30/my-findings-on-js-mv-dot-dot-dot-libs</id>
     <content type="html"><![CDATA[<h2><strong><a href="http://knockoutjs.com/">Knockout JS</a></strong></h2>
 
 <ul>
@@ -73,7 +73,7 @@
 </strong></p>
 
 <ul>
-<li><strong>Performance</strong>: It is a very subjective matter and depend a lots on the bottlenecks of your application and on the criteria you use to judge it. Backbone is quite extensively used in mobiles and tablets so shouldn't be a problem at all. Both Ember and Angular claim that they give snappy performance on phone though there is no use case to support this, at least I didn't find any.</li>
+<li><strong>Performance</strong>: It is a very subjective matter and depend a lots on the bottlenecks of your application and on the criteria you use to judge it. Backbone is quite extensively used in mobiles and tablets so shouldn&rsquo;t be a problem at all. Both Ember and Angular claim that they give snappy performance on phone though there is no use case to support this, at least I didn&rsquo;t find any.</li>
 <li><strong>Sources</strong>: Its a mix of my experiences with these frameworks and information gathered from various resources which I consider reliable.</li>
 </ul>
 
